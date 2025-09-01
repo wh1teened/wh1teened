@@ -75,10 +75,6 @@
   </td>
 </tr>
 <div align="center">
-	
-
-![wh1teened wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wh1teened&layout=compact&theme=synthwave)
-
 
 </div>
 
