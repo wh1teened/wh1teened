@@ -63,7 +63,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wh1teened&theme=dark&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wh1teened&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="wh1teened's GitHub Stats" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wh1teened&theme=dark&hide_border=false" /> 
 </td>
